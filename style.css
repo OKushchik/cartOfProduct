@@ -25,6 +25,7 @@ body {
     padding: 20px;
 }
 .photo {
+    width: 110%;
     position: relative;
     top: 20px;
     left: -40px;
